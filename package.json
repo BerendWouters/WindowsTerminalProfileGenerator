@@ -4,7 +4,8 @@
   "description": "A web tool to create your own Windows Terminal profiles",
   "main": "index.html",
   "dependencies": {
-    "@json-editor/json-editor": "^2.3.0"
+    "@json-editor/json-editor": "^2.3.0",
+    "requirejs": "^2.3.6"
   },
   "devDependencies": {},
   "scripts": {
